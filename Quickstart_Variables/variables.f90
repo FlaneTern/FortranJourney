@@ -7,6 +7,7 @@ program variables
   character :: initial
   logical :: isOkay
 
+
   amount = 10
   pi = 3.1415927
   frequency = (1.0, -0.5)
